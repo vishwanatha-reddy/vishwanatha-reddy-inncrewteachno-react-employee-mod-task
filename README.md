@@ -1,18 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Application functionality screenshot:
 
-In the project directory, you can run:
+### 1. Employee details table
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/84494799/126784039-d6ad1500-f87e-444f-94a6-e482a0034bf9.png)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 2. Adding a new employee record:
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/84494799/126784150-8195ce85-3695-4b94-853f-d076e7f64f52.png)
 
-### `npm test`
+### 3. delete employee record
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/84494799/126784309-37c6e9b6-dc70-48e6-96b9-2b66c236d6a2.png)
+
+Packages and technologies used:
+
+1. React.
+2. Redux.
+3. Bootstrap.
+4. react-redux.
+5. redux-thunk.
+6. React functional components.
+7. hooks (useEffect, useState, useDispatch and useSelector).
+
